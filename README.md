@@ -163,7 +163,7 @@
 - `Menu`는 특정 `MenuGroup`에 속한다.
 - `Menu`의 가격은 `MenuProducts`의 금액의 합보다 적거나 같아야 한다.
 - `Menu`의 가격이 `MenuProducts`의 금액의 합보다 크면 `NotDisplayedMenu`가 된다.
-- `MenuProduct`는 가격과 수량을 가진다.
+- `MenuProduct`는 가격과 수량을 가진다. (왜? 가격을 가져야 하는지 고민해보면 좋다. 상품에도 있는데...)
 
 ### 매장 주문
 
